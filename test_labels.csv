@@ -1,5 +1,11 @@
 filename,width,height,class,xmin,ymin,xmax,ymax
-00001.jpg,450,319,kangaroo,233,89,386,262
-00001.jpg,450,319,kangaroo,134,105,341,253
-raccoon-1.jpg,650,417,raccoon,81,88,522,408
-raccoon-10.jpg,450,495,raccoon,130,2,446,488
+E01.jpg,700,700,blue_gas,185,24,513,700
+H49.jpg,740,500,gas_ijo,236,78,689,500
+H49.jpg,740,500,gas_ijo,1,73,327,394
+H49.jpg,740,500,gas_ijo,1,302,413,500
+H50.JPG,248,328,gas_ijo,1,63,74,159
+H50.JPG,248,328,gas_ijo,60,64,145,183
+H50.JPG,248,328,gas_ijo,157,70,248,189
+H50.JPG,248,328,gas_ijo,6,155,73,226
+H50.JPG,248,328,gas_ijo,67,175,143,256
+H50.JPG,248,328,gas_ijo,144,183,229,268
