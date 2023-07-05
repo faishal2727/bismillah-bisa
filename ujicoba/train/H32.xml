@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hijau</folder>
+	<filename>H32.jpg</filename>
+	<path>D:\dataset-20230410T060034Z-001\dataset\hijau\H32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gas_ijo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>226</ymin>
+			<xmax>884</xmax>
+			<ymax>1196</ymax>
+		</bndbox>
+	</object>
+</annotation>
