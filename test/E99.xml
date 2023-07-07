@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blue_gas</folder>
+	<filename>E99.jpg</filename>
+	<path>D:\dataset-20230410T060034Z-001\dataset\blue_gas\E99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue_gas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>31</ymin>
+			<xmax>155</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

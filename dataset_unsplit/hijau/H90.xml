@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hijau</folder>
+	<filename>H90.jpg</filename>
+	<path>D:\dataset-20230410T060034Z-001\dataset\hijau\H90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>204</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gas_ijo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>50</ymin>
+			<xmax>173</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

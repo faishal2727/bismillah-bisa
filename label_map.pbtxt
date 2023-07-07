@@ -1,10 +1,16 @@
 item{
 id: 1
-name: 'kangaroo'
+name: 'blue_gas'
 }
 
 item{
 id: 2
-name: 'raccoon'
+name: 'gas_ijo'
 }
+
+item{
+id: 3
+name: 'bright_gas'
+}
+
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bright_gas</folder>
+	<filename>P41.jpg</filename>
+	<path>D:\dataset-20230410T060034Z-001\dataset\bright_gas\P41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bright_gas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>72</ymin>
+			<xmax>802</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>
